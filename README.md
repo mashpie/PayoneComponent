@@ -31,7 +31,7 @@ I'll provide 3 files:
 
 * components/payone.php (the component itself)
 * config/payone.php (a sample configuration file)
-* tests/components/payone.php (a unit testsuite)
+* tests/payone.php (a unit-test file)
  
 These files need to placed in the appropriate locations inside your cake project. If don't know about components yet, that's the time to [read the docs](http://book.cakephp.org/view/62/Components). The testfile, of course depends on installed simpletest, and isn't necessary for any productive use.
 
