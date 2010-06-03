@@ -1,6 +1,6 @@
 cakePHP Component for Payone-API Access
 =======================================
-Payone is a payment system with several product options and clearings. To use Payone you'll need to signup with them first of course. To get started try the (somewhat old) payone demos first. They seam to run on PHP < 5.3 right out of the box.
+[Payone](http://www.payone.de/) is a german payment system with several product options and clearings. To use Payone you'll need to signup with them first of course. To get started try the (somewhat old) payone demos first. They seam to run on PHP < 5.3 right out of the box.
 
 This Component started by implementing the Payone API just from scratch. Thus it doesn't feature the whole API yet. You should be able to process checkouts on creditcards for both the "Shop" and "Access" based solutions.
 
@@ -33,7 +33,7 @@ I'll provide 3 files:
 * config/payone.php (a sample configuration file)
 * tests/components/payone.php (a unit testsuite)
  
-These files need to placed in the appropriate locations inside your cake project. If don't know about components yet, that's the time to read http://book.cakephp.org/view/62/Components. The testfile, of course depends on installed simpletest, and isn't necessary for any productive use.
+These files need to placed in the appropriate locations inside your cake project. If don't know about components yet, that's the time to [read the docs](http://book.cakephp.org/view/62/Components). The testfile, of course depends on installed simpletest, and isn't necessary for any productive use.
 
 Be advised
 ----------
