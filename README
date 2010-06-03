@@ -1,4 +1,4 @@
-cakePHP Component for Payone-API Access
+= cakePHP Component for Payone-API Access
 =======================================
 Payone is a payment system with several product options and clearings. To use Payone you'll need to signup with them first of course. To get started try the (somewhat old) payone demos first. They seam to run on PHP < 5.3 right out of the box.
 
